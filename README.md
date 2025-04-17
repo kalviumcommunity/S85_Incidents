@@ -45,5 +45,22 @@ JWT (for authentication)
 Testing
 
 Postman / Bruno
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Daily task
+day 1: design upload
+day 2: git hub repo created
+day 3:database schema
+day 4:POST end point created
+day 5:get end point created
+day 6:put end point created
+day 7:deploye backed created
+day 8:Implementing relationship between entities in database, PR, and requesting
+day 9:Implemented file upload functionality in the application
+day 10: Implemented authentication (username / password) in application
+day 11:Implemented authentication (3rd party - like google) in application
+day 12:Using JWTs in application
+
+
 
 
